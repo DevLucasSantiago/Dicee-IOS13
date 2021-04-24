@@ -9,7 +9,7 @@
     <img src= "https://user-images.githubusercontent.com/56771209/115959678-c683f400-a4e3-11eb-9808-1a94382b2ebf.png" width="40" height="40">
   </a>
   <p align="center">
-   Sigle view app that show`s up 2 dices and roll then when you click the roll button.
+   Sigle view app that show`s up a magic 8 ball, you can ask anything then click ask to see the answer.
   </p>
 </p>
 

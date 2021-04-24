@@ -29,7 +29,6 @@
 ## Xcode native components Learned
 
 - StackView
-- UI View
 
 [swift-url]: https://swift.org/
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics

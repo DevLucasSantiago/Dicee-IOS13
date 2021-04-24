@@ -26,7 +26,7 @@
 - 💼 Learn to use Swift Variables and Arrays to store data
 - 🎲 Learn about randomisation in Swift
 
-## Xcode native components Learned
+## Xcode native interface components Learned
 
 - StackView
 

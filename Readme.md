@@ -25,7 +25,7 @@
 - 🌃 How to incorporate your own image assets into your app
 - 📱 How to design and create a custom app icon
 
-## UIKit
+## Xcode native interface components Learned
 
 - UI View
 - UI Label

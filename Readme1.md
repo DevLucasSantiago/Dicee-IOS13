@@ -6,10 +6,10 @@
 <br />
 <p align="center">
   <a>
-    <img src= "https://user-images.githubusercontent.com/56771209/115958252-0f847a00-a4dd-11eb-89aa-15913bd5f814.png" width="40" height="40">
+    <img src= "https://user-images.githubusercontent.com/56771209/115959422-8b34f580-a4e2-11eb-8d13-6d310eb3c5d7.png" width="40" height="40">
   </a>
   <p align="center">
-   Sigle view app that show`s up a dimond.
+   Sigle view app that show`s up 2 dices and roll then when you click the roll button.
   </p>
 </p>
 
@@ -26,10 +26,10 @@
 - 💼 Learn to use Swift Variables and Arrays to store data
 - 🎲 Learn about randomisation in Swift
 
-## UIKit
+## Xcode native components Learned
 
-- UI Label
-- UI Image View
+- StackView
+- UI View
 
 [swift-url]: https://swift.org/
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics

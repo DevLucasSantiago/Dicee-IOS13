@@ -3,79 +3,30 @@
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/EZSwiftExtensions.svg)](https://img.shields.io/cocoapods/v/LFAlertController.svg)  
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 
-# App Name
+# I Am Rich
 <br />
 <p align="center">
-  <a href="https://github.com/DevLucasSantiago/Readme.md">
-    <img src="logo.jpeg" alt="Logo" width="80" height="80">
+  <a>
+    <img src= "https://user-images.githubusercontent.com/56771209/115958252-0f847a00-a4dd-11eb-89aa-15913bd5f814.png" width="40" height="40">
   </a>
   <p align="center">
-    One to two paragraph statement about your product and what it does.
+   Sigle view app that show`s up a dimond.
   </p>
 </p>
 
 <p align="row">
-<img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" width="400" >
-<img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" width="400" >
+  <img src= "https://user-images.githubusercontent.com/56771209/115915953-760c8800-a44a-11eb-8525-7ba9348a03fe.gif" width="200">
 </p>
 
 ## Learned in this Project
 
-- [x] Feature 1
-- [x] Feature 2
-- [x] Feature 3
-- [x] Feature 4
-- [x] Feature 5
+- ✏️ How to create and set up a new iOS project from scratch'✏️💻
+- 💻 Get an overview of Xcode - the software for creating iOS apps
+- 🎨 How to design your app in Xcode using iOS components
+- 🌃 How to incorporate your own image assets into your app
+- 📱 How to design and create a custom app icon
 
-## Requirements
-
-- iOS 8.0+
-- Xcode 7.3
-
-## Installation
-
-#### CocoaPods
-You can use [CocoaPods](http://cocoapods.org/) to install `YourLibrary` by adding it to your `Podfile`:
-
-```ruby
-platform :ios, '8.0'
-use_frameworks!
-pod 'YourLibrary'
-```
-
-To get the full benefits import `YourLibrary` wherever you import UIKit
-
-``` swift
-import UIKit
-import YourLibrary
-```
-
-## Usage example
-
-```swift
-import EZSwiftExtensions
-ez.detectScreenShot { () -> () in
-    print("User took a screen shot")
-}
-```
-
-## Contribute
-
-We would love you for the contribution to **YourLibraryName**, check the ``LICENSE`` file for more info.
-
-## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-[swift-image]:https://img.shields.io/badge/swift-5.0-orange.svg
 [swift-url]: https://swift.org/
-[license-image]: https://img.shields.io/badge/License-MIT-blue.svg
-[license-url]: LICENSE
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[codebeat-image]: https://codebeat.co/badges/c19b47ea-2f9d-45df-8458-b2d952fe9dad
-[codebeat-url]: https://codebeat.co/projects/github-com-vsouza-awesomeios-com
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[swift-image]:https://img.shields.io/badge/swift-5.0-orange.svg

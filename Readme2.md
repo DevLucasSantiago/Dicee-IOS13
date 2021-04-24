@@ -31,7 +31,7 @@
 
 - 📚 Couse name: [iOS & Sift - The Complete iOS App Development Bootcamp][udacity-url]
 - 💻 Plataform: Udacity
-- 📋 Module Name: Session 5: Swift Programming Basics Challenge
+- 📋 Module Name: Section 5: Swift Programming Basics Challenge
 
 
 [swift-url]: https://swift.org/

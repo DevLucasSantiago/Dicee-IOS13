@@ -4,9 +4,8 @@
 
 iOS App desenvolvido em SWIFT
 
-### The Challenge
+### [The Challenge][enunciado-url]
 
-https://github.com/WoopSicredi/jobs/issues/3
 Criar um app em Swift para consultar a API de Eventos, que contenha:
 
 ### Must have
@@ -36,3 +35,5 @@ http://5f5a8f24d44d640016169133.mockapi.io/api/events
 ## Resultados Obtidos
 
 ![](https://media.giphy.com/media/Uy3KpUfgXYkKykI5rc/giphy.gif)
+
+[enunciado-url]: https://github.com/WoopSicredi/jobs/issues/3

@@ -9,7 +9,7 @@
     <img src= "https://user-images.githubusercontent.com/56771209/115958252-0f847a00-a4dd-11eb-89aa-15913bd5f814.png" width="40" height="40">
   </a>
   <p align="center">
-   Sigle view app that show`s up a dimond.
+   Sigle view app that shows up a dimond.
   </p>
 </p>
 

@@ -2,6 +2,8 @@
 [![Build Status][travis-image]][travis-url]
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 
+![appVideo2]()
+
 # Magic 8 Ball App
 
 <p align="center">
@@ -14,7 +16,7 @@
 </p>
 
 <p align="center">
-    <img align="center" src= "https://user-images.githubusercontent.com/56771209/115915953-760c8800-a44a-11eb-8525-7ba9348a03fe.gif" width="200">
+    <img align="center" src= "https://user-images.githubusercontent.com/56771209/116588658-333b2c00-a8f2-11eb-9e51-d977d9c291df.gif" width="200">
 </p>
 
 ## Learned in this Project

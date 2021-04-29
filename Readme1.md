@@ -2,39 +2,43 @@
 [![Build Status][travis-image]][travis-url]
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 
-# Dicee App
+# Presentation Card App
 <br />
 <p align="center">
   <a>
-    <img src= "https://user-images.githubusercontent.com/56771209/115959422-8b34f580-a4e2-11eb-8d13-6d310eb3c5d7.png" width="40" height="40">
+    <img src= "https://user-images.githubusercontent.com/56771209/116591157-e73db680-a8f4-11eb-8ae8-a31b1b90a092.png" width="40" height="40">
   </a>
   <p align="center">
-   Sigle view app that show`s up 2 dices and roll then when you click the roll button.
+   Sigle view app that shows up a presentation card.
   </p>
 </p>
 
 <p align="center">
-    <img align="center" src= "https://user-images.githubusercontent.com/56771209/115915953-760c8800-a44a-11eb-8525-7ba9348a03fe.gif" width="200">
+    <img align="center" src= "https://user-images.githubusercontent.com/56771209/116592156-0b4dc780-a8f6-11eb-8d72-8f07e980c7d4.gif" width="200">
 </p>
 
 ## Learned in this Project
 
-- 👯 Clone an Xcode project from GitHub
-- 🎨 Design the user interface
-- 💻 Changing UI Elements programmatically
-- 👋 Detect user interaction and respond to it
-- 💼 Learn to use Swift Variables and Arrays to store data
-- 🎲 Learn about randomisation in Swift
+- 💡 How to start your first SwiftUI Project.
+- 💻 Work with Xcode preview and the object library to generate SwiftUI code.
+- 📝 Learn to use SwiftUI modifiers to set properties for components.
+- 🏗 Learn how to arrange elements using SwiftUI Stacks.
+- 🖼 Learn how to add and size Image components.
 
 ## Xcode native interface components Learned
 
-- StackView
+- SwiftUI
+- ZStack
+- VStack
+- Custom View
+- Image
+- Text
 
 ## Project infos
 
 - 📚 Couse name: [iOS & Sift - The Complete iOS App Development Bootcamp][udacity-url]
 - 💻 Plataform: Udacity
-- 📋 Module Name: Section 4: Swift Programming Basics - Collections, Constants & Variables
+- 📋 Module Name: Section 17: SwiftUI and Declarative Programming
 
 
 [swift-url]: https://swift.org/

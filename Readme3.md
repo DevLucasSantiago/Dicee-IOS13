@@ -2,8 +2,6 @@
 [![Build Status][travis-image]][travis-url]
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 
-![appVideo2]()
-
 # Magic 8 Ball App
 
 <p align="center">

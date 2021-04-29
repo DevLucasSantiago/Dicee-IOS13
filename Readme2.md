@@ -32,7 +32,7 @@
 
 - 📚 Couse name: [iOS & Sift - The Complete iOS App Development Bootcamp][udacity-url]
 - 💻 Plataform: Udacity
-- 📋 Module Name: Section 4: Swift Programming Basics Challenge
+- 📋 Module Name: Section 4: Swift Programming Basics - Collections, Constants & Variables
 
 
 [swift-url]: https://swift.org/

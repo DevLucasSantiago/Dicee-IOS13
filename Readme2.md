@@ -2,7 +2,7 @@
 [![Build Status][travis-image]][travis-url]
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 
-# Dice!
+# Dice App!
  App
 
 <p align="center">

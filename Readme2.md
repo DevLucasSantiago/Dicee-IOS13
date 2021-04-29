@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-    <img align="center" src= "https://user-images.githubusercontent.com/56771209/115915953-760c8800-a44a-11eb-8525-7ba9348a03fe.gif" width="200">
+    <img align="center" src= "https://user-images.githubusercontent.com/56771209/116587695-1520fc00-a8f1-11eb-83d8-197fed67ff9d.gif" width="200">
 </p>
 
 ## Learned in this Project
